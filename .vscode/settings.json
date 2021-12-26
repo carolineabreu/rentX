@@ -1,0 +1,28 @@
+{
+  "explorer.compactFolders": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "scm.inputFontFamily": "Fira Code",
+  "markdown.preview.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "Fira Code",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "rewrap.wrappingColumn": 90,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 90,
+  "editor.tabSize": 2,
+  "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    },
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "all",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+}
